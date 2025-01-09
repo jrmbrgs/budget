@@ -1,0 +1,1 @@
+https://gitlab.com/gojob/third-app/init-config/-/merge_requests/496
